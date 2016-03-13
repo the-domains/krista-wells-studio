@@ -6,25 +6,26 @@ inLanguage: null
 starred: false
 keywords: []
 description: Krista Wells is short.
-datePublished: '2016-03-11T09:17:22.908Z'
-dateModified: '2016-03-11T09:17:19.856Z'
+datePublished: '2016-03-13T11:19:50.637Z'
+dateModified: '2016-03-13T11:19:48.215Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-11-krista-wells-is-short.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-11-krista-wells-is-short.md
-published: true
 url: krista-wells-is-short/index.html
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4726569a9fd39857098799f875da882822faf14d.jpg)
+
 Krista Wells is short.
 
 She hates Brussels sprouts.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8eef173c-4fe2-4abe-b8cb-69033d1cf2e8.jpg)
 
 She makes neat stuff.
