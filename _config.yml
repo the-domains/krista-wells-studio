@@ -1,4 +1,4 @@
-name: KRISTA WELLS STUDIO
+name: KRISTA WELLS
 favicon: null
 layout_spectrum: 0.02028504409827292
 typography_spectrum: 0.7383403719868511
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#ffffff'
+    - '#fe9600'
+    - '#0a0a13'
+    - '#cc3705'
+    - '#95a8cd'
   brandStrength: 0.45541379461064935
   lightness: 0.7037499228026718
   saturation: 0.48305922700092196
