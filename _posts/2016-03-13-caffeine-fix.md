@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\"caffeine fix\",\_"
-datePublished: '2016-03-13T11:18:58.437Z'
-dateModified: '2016-03-13T11:18:53.705Z'
+datePublished: '2016-03-13T21:01:37.374Z'
+dateModified: '2016-03-13T12:54:10.150Z'
 author: []
 title: ''
 sourcePath: _posts/2016-03-13-caffeine-fix.md
@@ -24,7 +24,7 @@ _type: Article
 
 ---
 [][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab66bac0-2e38-42a4-aff9-41a9f83d28f8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3fb1805c6f9ca1d974165620eeddda0a0805376.jpg)
 
 "caffeine fix", 
 
