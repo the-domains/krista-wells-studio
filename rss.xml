@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[KRISTA WELLS STUDIO]]></title>
-        <description><![CDATA[KRISTA WELLS STUDIO]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Krista Wells Studio]]></title>
+        <description><![CDATA[Krista Wells Studio]]></description>
+        <link>https://thegrid.ai/krista-wells-studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 09:17:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Mar 2016 11:15:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/krista-wells-studio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.kristawells.ca/image/caffeine-fixlgadjwebsize.jpg">]]></description>
+            <link>http://www.kristawells.ca/pages/paintings.html</link>
+            <guid isPermaLink="false">0e5d8d02-bf0f-433a-8d76-95a54dc17bc0</guid>
+            <pubDate>Sun, 13 Mar 2016 11:15:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8eef173c-4fe2-4abe-b8cb-69033d1cf2e8.jpg">]]></description>
-            <link>undefinedkrista-wells-is-short/index.html</link>
+            <link>https://thegrid.ai/krista-wells-studio/krista-wells-is-short/index.html</link>
             <guid isPermaLink="false">bf777889-ce0a-4cc4-8c91-fa027915156b</guid>
             <pubDate>Fri, 11 Mar 2016 09:17:22 GMT</pubDate>
         </item>
