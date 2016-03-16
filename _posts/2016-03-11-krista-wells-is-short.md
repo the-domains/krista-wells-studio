@@ -1,14 +1,14 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Krista Wells is short.
-datePublished: '2016-03-14T09:52:37.869Z'
-dateModified: '2016-03-14T09:52:37.311Z'
-title: ''
+datePublished: '2016-03-16T11:46:27.524Z'
+dateModified: '2016-03-16T11:45:09.868Z'
+title: ABOUT
 author: []
 sourcePath: _posts/2016-03-11-krista-wells-is-short.md
 published: true
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: krista-wells-is-short/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4726569a9fd39857098799f875da882822faf14d.jpg)
