@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Krista Wells is short.
-datePublished: '2016-03-16T11:46:27.524Z'
-dateModified: '2016-03-16T11:45:09.868Z'
+datePublished: '2016-04-16T17:31:09.732Z'
+dateModified: '2016-03-16T11:48:44.446Z'
 title: ABOUT
 author: []
 sourcePath: _posts/2016-03-11-krista-wells-is-short.md
