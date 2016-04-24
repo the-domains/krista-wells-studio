@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\"caffeine fix\",\_"
-datePublished: '2016-03-24T12:39:35.639Z'
-dateModified: '2016-03-24T12:39:35.188Z'
+datePublished: '2016-04-24T13:24:04.825Z'
+dateModified: '2016-04-16T17:27:05.018Z'
 author: []
 title: ''
 sourcePath: _posts/2016-03-13-caffeine-fix.md
@@ -29,7 +29,7 @@ _type: Article
 
 acrylic on canvas
 
-40" x 16". ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/059eb5bf-9a83-474e-9b2d-16ac6323aba2.jpg)
+40" x 16". ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/17cfef030f6b9c31e9c90b4c0381aaf589d5e9f0.jpg)
 
 The original is sold but prints on canvas are available. 
 
