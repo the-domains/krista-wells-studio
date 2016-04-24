@@ -4,21 +4,21 @@
         <description><![CDATA[Krista Wells Studio]]></description>
         <link>https://thegrid.ai/krista-wells-studio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 17:44:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 13:24:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/krista-wells-studio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>"caffeine fix", </p>]]></description>
+            <link>http://www.kristawells.ca/pages/paintings.html</link>
+            <guid isPermaLink="false">0e5d8d02-bf0f-433a-8d76-95a54dc17bc0</guid>
+            <pubDate>Sun, 24 Apr 2016 13:24:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Bliss</p>]]></description>
             <link>https://thegrid.ai/krista-wells-studio/bliss/index.html</link>
             <guid isPermaLink="false">f4fb8dd4-6326-42f1-b49b-98204be04c71</guid>
             <pubDate>Sat, 16 Apr 2016 17:44:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>"caffeine fix", </p>]]></description>
-            <link>http://www.kristawells.ca/pages/paintings.html</link>
-            <guid isPermaLink="false">0e5d8d02-bf0f-433a-8d76-95a54dc17bc0</guid>
-            <pubDate>Thu, 24 Mar 2016 12:39:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
