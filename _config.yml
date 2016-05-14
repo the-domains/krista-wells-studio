@@ -1,29 +1,41 @@
-name: KRISTA WELLS
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.7383403719868511
 title: Krista Wells Studio
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.483059227000922
+  brandStrength: 0.6522557
+  lightness: 0.7037499228026718
+  brandColors:
+    - '#F8201D'
+    - '#1B2124'
+    - '#FA5018'
+    - '#CA7714'
+    - '#A2B0BA'
+  rhythmicContrast: 0.9229158211965114
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: KRISTA WELLS
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#fe9600'
-    - '#0a0a13'
-    - '#cc3705'
-    - '#95a8cd'
-  brandStrength: 0.45541379461064935
-  lightness: 0.7037499228026718
-  saturation: 0.48305922700092196
-  rhythmicContrast: 0.9229158211965114
-purpose: []
+typography_spectrum: 0.7017544
+layout_spectrum: 1
